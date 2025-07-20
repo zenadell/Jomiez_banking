@@ -1,0 +1,51 @@
+Bank Script v1.0
+Email Developer: info@pauljumbostore.com
+WhatsApp: +2349039878296
+Website: www.pauljumbostore.com
+
+*********************************************************************
+**** This online banking script is for educational purposes only. 
+We are not responsible for any illegal use of this script. ******
+********************************************************************
+
+
+// Thanks For Buying //
+
+*** How to upload scripts ***
+
+// Download and Extract File.zip to public directory or sub folder
+// Create a New Database and Import database.sql file
+// Edit the /include/Config.php and set database
+// Only Admin can create user. account logins will be sent to the user email.
+// COT and IMF Code can be activated in each user profile, check admin dashboard
+// Happy Editing
+// Raw Php & Html... you can hire WhatsApp: +2349039878296 for customization
+
+
+
+*** How to Set Up SMTP ***
+
+Locate /include/UserClass.php
+Locate /admin/include/adminClass.php
+
+
+*** Demo User Logins ***
+https://siteurl.com/
+Account id: 9909292554
+Password: test
+pin: 1234
+
+*** Admin Logins ***
+
+https://siteurl.com/admin/login.php
+
+
+
+*********************************************************************
+**** This online banking script is for educational purposes only. 
+We are not responsible for any illegal use of this script. ******
+********************************************************************
+
+
+
+
